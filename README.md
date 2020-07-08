@@ -1,2 +1,2 @@
 # Machine-Learning-Basics
-machine learning algorithm 
+machine learning algorithms
